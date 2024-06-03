@@ -322,6 +322,7 @@ Des services API Rest / Asynchrones ayant des domaines de responsabilité bien d
 - Continuous Delivery (CD) pour gérer Build / Tests et déploiement
 
 **Process de MEP:**
+
 - Promotion: builder une fois et passer d'un environnement à l'autre (Intégration -> Preprod -> Prod) par validations
 - Eviter les silos, mais passer par une validation manuelle
 
@@ -336,6 +337,7 @@ Des services API Rest / Asynchrones ayant des domaines de responsabilité bien d
 - Observabilité: *monitoring, tracabilité (Open Telemetry)*
 
 **Les infrastructures locales sont moins agiles:**
+
 - moins flexibles pour du lab/test
 - nécessitent plus de maintenance
 - moins rapides à mettre à jour (patchs sécurité...)
