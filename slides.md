@@ -2,50 +2,11 @@
 
 Interventions autour des micro-services et Kubernetes avec une vision d’usage des entreprises du privé.
 
-**Slides:** https://anf2022.pages.math.cnrs.fr/devops-k8s-rex
+**Slides:** http://jamkey.fr/devops-k8s-training
 
-**Sources:** https://plmlab.math.cnrs.fr/anf2022/devops-k8s-rex
+**Sources:** https://github.com/sebastienmoreno/devops-k8s-training
 
 ![](static/rex-devops-k8s.png)
-
---
-
-## Qui suis-je?
-
-Sébastien Moreno
-
-<img src="https://assets.about.me/background/users/s/e/b/sebastien.moreno_1665670438_49.jpg" style="width:400px;float:left;margin:0 20px 20px 0"/>
-
-<table><tr><td>
-
-Ingénieur logiciel, architecte, expert DevOps, développeur Java.
-
-J'ai accompagné ces dernières années de nombreux clients pour les aider à définir et mettre en place leur stratégie de développement, devops et delivery.
-
-- https://about.me/sebastien.moreno
-- https://www.jamkey.fr
-- https://github.com/sebastienmoreno
-- https://www.linkedin.com/in/sebastienmoreno
-- https://www.twitter.com/sebastienmoreno
-
-</td><td>
-
-- *Sauermann*
-- *Thermofisher*
-- *Leclerc*
-- *BNP Paribas*
-- *Thales*
-- *Orange*
-- *IBM*
-- *...*
-
-</td></tr></table>
-
---
-
-## Je suis dans le privé...
-
-<img src="static/dark-side.gif" style="width:80%">
 
 ---
 

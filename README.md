@@ -2,7 +2,7 @@
 > Par Sébastien Moreno
 > 13/10/2022
 
-**Slides:** https://anf2022.pages.math.cnrs.fr/devops-k8s-rex/
+**Slides:** http://jamkey.fr/devops-k8s-training/
 
 Slides pour différentes interventions autour des micro-services, Kubernetes avec une vision d’usage des entreprises du privé.
 
