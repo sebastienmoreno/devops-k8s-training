@@ -1,0 +1,9 @@
+# Ignore all
+**
+# Whitelist
+!docs
+!images
+!resources
+!pdf
+!plugin
+!dist
