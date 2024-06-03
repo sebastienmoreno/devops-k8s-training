@@ -94,6 +94,7 @@ Au cours des derniers mois, un mouvement a commencé à prendre forme. Il s'agit
 ## Et aussi des outils (beaucoup...) !
 
 <img src="static/outils-tableau-periodique.png" width="75%"/>
+
 > source: [devops-tools-periodic-table](https://digital.ai/devops-tools-periodic-table)
 
 --
@@ -101,9 +102,9 @@ Au cours des derniers mois, un mouvement a commencé à prendre forme. Il s'agit
 ## REX - Oracle Exadata
 
 <table>
-<tr><td>
+<tr><td width="30%">
 
-<img src="static/oracle-exadata.png" width="60%"/>
+<img src="static/oracle-exadata.png"/>
 
 </td><td>
 
@@ -167,13 +168,13 @@ Au cours des derniers mois, un mouvement a commencé à prendre forme. Il s'agit
 
 ## Exemple Uber : microservice
 
-![Alt text](static/archi-uber2.png)
+<img src="static/archi-uber2.png" width="60%"/>
 
 --
 
 ## Uber’s microservices architecture from 2019
 
-![Alt text](static/archi-uber3.png =)
+<img src="static/archi-uber3.png" width="60%"/>
 
 
 --
@@ -518,7 +519,7 @@ Les concepts de cluster facilite l'adoption:
 
 </td><td>
 
-<img src="static/istio.png" width="70%"/>
+<img src="static/istio.png" width="60%"/>
 
 </td></tr></table>
 
@@ -702,7 +703,7 @@ spec:
 
 ## Ecosystème élargie : Fission
 
-![Alt text](static/fission-architecture.png)
+<img src="static/fission-architecture.png" width="80%"/>
 
 > [Source Platform9](https://platform9.com/blog/introducing-fission-platform-run-functions-anywhere/)
 
@@ -720,7 +721,7 @@ spec:
 
 Le projet Kubeflow a pour objectif de rendre les déploiements de machine learning (ML) workflows sur Kubernetes simples, portables et évolutifs.
 
-![Alt text](static/kubeflow-architecture.png)
+<img src="static/kubeflow-architecture.png" width="80%"/>
 
 > [Source NVidia](https://betterprogramming.pub/kubeflow-pipelines-with-gpus-1af6a74ec2a)
 
@@ -768,7 +769,7 @@ Il peut aussi scaler le nombre de pods en fonction de la charge.
 
 </td><td>
 
-![Alt text](static/deployment.png)
+<img src="static/deployment.png" width="90%"/>
 
 </td></tr></table>
 
@@ -778,11 +779,11 @@ Il peut aussi scaler le nombre de pods en fonction de la charge.
 
 --
 
-<img src="static/deploy-manifest.jpg" width="100%"/>
+<img src="static/deploy-manifest.jpg" width="90%"/>
 
 --
 
-![Alt text](static/deploy-service.png)
+<img src="static/deploy-service.png" width="90%"/>
 
 --
 
