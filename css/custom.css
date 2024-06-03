@@ -4,7 +4,7 @@
  :root {
   --r-background-color: #191919;
   --r-main-font: Source Sans Pro, Helvetica, sans-serif;
-  --r-main-font-size: 25px;
+  --r-main-font-size: 20px;
   --r-main-color: #fff;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
@@ -28,4 +28,12 @@
   --r-selection-color: #fff;
   --r-overlay-element-bg-color: 240, 240, 240;
   --r-overlay-element-fg-color: 0, 0, 0;
+}
+
+/* Ensure certain elements are never larger than the slide itself */
+.reveal img,
+.reveal video,
+.reveal iframe {
+  max-width: 80%;
+  max-height: 80%;
 }

@@ -94,7 +94,6 @@ Au cours des derniers mois, un mouvement a commencé à prendre forme. Il s'agit
 ## Et aussi des outils (beaucoup...) !
 
 <img src="static/outils-tableau-periodique.png" width="75%"/>
-
 > source: [devops-tools-periodic-table](https://digital.ai/devops-tools-periodic-table)
 
 --
@@ -104,7 +103,7 @@ Au cours des derniers mois, un mouvement a commencé à prendre forme. Il s'agit
 <table>
 <tr><td>
 
-<img src="static/oracle-exadata.png" width="90%"/>
+<img src="static/oracle-exadata.png" width="60%"/>
 
 </td><td>
 
@@ -174,7 +173,7 @@ Au cours des derniers mois, un mouvement a commencé à prendre forme. Il s'agit
 
 ## Uber’s microservices architecture from 2019
 
-![Alt text](static/archi-uber3.png)
+![Alt text](static/archi-uber3.png =)
 
 
 --
